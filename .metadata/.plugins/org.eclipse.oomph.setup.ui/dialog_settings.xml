@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SetupWizard">
+		<section name="ProgressPage">
+		</section>
+		<section name="ConfirmationPage">
+		</section>
+		<section name="VariablePage">
+			<item value="false" key="fullPrompt"/>
+		</section>
+	</section>
+</section>
